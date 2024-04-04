@@ -19,39 +19,27 @@ layout:
 
 # Game captures
 
+## Game captures
+
 We encourage you to run a 3rd party recording/clipping software during your time in city. This will help when it comes to logging tickets, it provides visual and audio evidence to the support team. It can also help with bugs, compensation and defending yourself should a ticket be logged claiming you have done something. There are a few things you can use, we recommend the below ones. If you are a streamer then twitch clips etc can be used.
 
+### Recommended method
 
+[Medal.TV](https://medal.tv) - Free tier can do everything you need in terms of clip recording. The premium features may be useful for people who want to share their clips with the world! [Medal.TV Setup Guide](https://www.youtube.com/watch?v=1txLem-mXNE).
 
-Medal.TV (Free but can purchase a subscription with more features)
+Pro tip; If you don't want Medal.TV dominating your Discord's rich presence (See example below), disable the built-in feature `Promote my Medal profile using Rich Presence` found under **Settings > Privacy & Security > Privacy & Visibility section**
 
-Download link: https://medal.tv
+<figure><img src="../.gitbook/assets/medal-presence (1).png" alt=""><figcaption><p>Discord rich presence</p></figcaption></figure>
 
-Guide: [https://www.youtube.com/watch?v=1txLem-mXNE](https://www.youtube.com/watch?v=1txLem-mXNE)
+####
 
+<figure><img src="../.gitbook/assets/medal-settings (1).png" alt=""><figcaption><p>Medal setting to disable</p></figcaption></figure>
 
+#### Other viable options
 
-nVIDIA ShadowPlay&#x20;
-
-Download Link: [https://www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/#download](https://www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/#download)
-
-Tutorial: [https://www.youtube.com/watch?v=odwoUUwq8kk](https://www.youtube.com/watch?v=odwoUUwq8kk)
-
-
-
-OBS:
-
-Download Link: https://obsproject.com
-
-Guide: [https://www.youtube.com/watch?v=n3mMIs24CnM](https://www.youtube.com/watch?v=n3mMIs24CnM)
-
-
-
-Fraps: (this is the least recommend way)
-
-Download Link: [https://fraps.com/](https://fraps.com/)&#x20;
-
-Guide: [https://www.youtube.com/watch?v=IFjssldh5wY](https://www.youtube.com/watch?v=IFjssldh5wY)
+* nVIDIA ShadowPlay - [Download](https://www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/#download) - [Tutorial](https://www.youtube.com/watch?v=odwoUUwq8kk)
+* OBS - [Download](https://obsproject.com) - [Tutorial](https://www.youtube.com/watch?v=n3mMIs24CnM)
+* Fraps (If you still live in 2006) - [Download](https://fraps.com/) - [Tutorial](https://www.youtube.com/watch?v=IFjssldh5wY)
 
 
 
