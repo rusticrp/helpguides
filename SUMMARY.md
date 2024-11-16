@@ -8,6 +8,7 @@
 * [Clearing your game cache](technical-fixes/clearing-your-game-cache.md)
 * [Discord authentication error](technical-fixes/discord-authentication-error.md)
 * [Game captures](technical-fixes/game-captures.md)
+* [Pure Mode](technical-fixes/pure-mode.md)
 
 ## How To's
 
